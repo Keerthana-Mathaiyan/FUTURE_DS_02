@@ -84,7 +84,7 @@ The dataset used in this project is sourced from Kaggle:
 
 Dataset Name: Facebook Ad Campaign
 
-Link: [https://www.kaggle.com/datasets/mathchi/online-retail-ii-data-set-from-ml-repository](https://www.kaggle.com/datasets/madislemsalu/facebook-ad-campaign)
+Link: [Dataset](https://www.kaggle.com/datasets/madislemsalu/facebook-ad-campaign)
 
 ---
 ## License

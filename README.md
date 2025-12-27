@@ -89,7 +89,7 @@ Link: [Dataset](https://www.kaggle.com/datasets/madislemsalu/facebook-ad-campaig
 ---
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under in the mentioned Kaggle set.
 
 ---
 

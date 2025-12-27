@@ -96,7 +96,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Contact
 
 For questions or feedback, please contact:  
-[Keerthana] — [(https://www.linkedin.com/in/keerthana-mathaiyan/)]  
+[Keerthana] — [Linkedin](https://www.linkedin.com/in/keerthana-mathaiyan/) 
 
 ---
 
